@@ -1,2 +1,3 @@
 Git commands that even a monkey can understand!
 Changed by tutorial_git2!
+pull : get remote repository's content
